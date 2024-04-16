@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement  SR flipflop using verilog and validating their functionality using their functional tables
+To implement  SR flipflop using verilog and validating their functionality using their functional tables.
 
 **SOFTWARE REQUIRED:**
 
@@ -80,3 +80,4 @@ endmodule
 ![image](./images/output.png)
 **RESULTS**
 
+Thus, SR flipflop has been implemented using verilog and their functionality has been validated using their functional tables.
